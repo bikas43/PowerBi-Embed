@@ -1,0 +1,18 @@
+
+/* Display Port */
+.DisplayPort{
+  width: 1920px;
+  height: 1080px;
+;
+}
+
+.powerbi-report{
+  width: auto;
+  height: 100%;
+
+}
+
+.custom-header-class {
+  background-color: rgb(30, 192, 157); 
+  /* // Change to your desired background color */
+}
